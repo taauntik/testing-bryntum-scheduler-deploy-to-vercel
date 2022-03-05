@@ -23,9 +23,9 @@
     "node_modules/@bryntum/scheduler/fonts/*": "copy public/themes/fonts/"
   },
   "dependencies": {
-    "@bryntum/demo-resources": "1.1.0",
-    "@bryntum/scheduler": "5.0.1",
-    "@bryntum/scheduler-react": "5.0.1",
+    "@bryntum/demo-resources": "git+https://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:x-oauth-basic@github.com/taauntik/bryntum-suite.git",
+    "@bryntum/scheduler": "git+https://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:x-oauth-basic@github.com/taauntik/bryntum-suite.git",
+    "@bryntum/scheduler-react": "git+https://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:x-oauth-basic@github.com/taauntik/bryntum-suite.git",
     "cross-env": "~7.0.2",
     "react": "~16.14.0",
     "react-dom": "~16.14.0",

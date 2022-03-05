@@ -1,0 +1,11 @@
+{
+  "index": {
+    "template": "app.index.ejs",
+    "folder": "public",
+    "bundles": [
+      "es6"
+    ]
+  },
+  "title": "React Scheduler animation demo",
+  "description": "This demo contains a React Scheduler component and lets you play with the out-of-the-box animations after data changes."
+}
